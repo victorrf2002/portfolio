@@ -1,0 +1,60 @@
+header {
+    background-color: #f7fcfd !important;
+    color: #051015;
+}
+
+.text-body-secondary {
+    color: #051015;
+}
+
+.text-white {
+    color: #a55bd7;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: #051015;
+}
+
+.navbar-toggler {
+    background-color: #9d87e3;
+}
+
+main {
+    background-color: #f7fcfd;
+    color: #051015;
+}
+
+.btn-primary {
+    color: #f7fcfd;
+}
+
+.btn-secondary {
+    color: #f7fcfd;
+}
+
+.album {
+    background-color: #f7fcfd;
+}
+
+.card {
+    /* background-color: rgba(53, 148, 208, 0.1); */
+    background-color: #f7fcfd;
+}
+
+.btn-group>a {
+    margin: 2px;
+}
+
+#bd-theme {
+    background-color: #9d87e3;
+}
+
+footer {
+    background-color: #f7fcfd;
+}
+
+footer>div>p>a {
+    color: #a55bd7;
+    text-decoration: none;
+}
